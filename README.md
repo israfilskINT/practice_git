@@ -1,2 +1,2 @@
 # practice_git
-got practice
+git practice
